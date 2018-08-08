@@ -1,7 +1,3 @@
-And
-Or
-But
-Nor
 So
 For
 Yet
@@ -12,6 +8,10 @@ As If
 As Long As
 Because
 Before
+And
+Or
+But
+Nor
 Even If
 Even Though
 Once
